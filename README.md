@@ -2,7 +2,7 @@
 
 ## Блок 1. Теория
 
-1.1. [Введение в тестирование ПО. Виды и методы тестирования.](./github.com/netology-code/iqa-homeworks/tree/iqa-12/1.1)
+1.1. [Введение в тестирование ПО. Виды и методы тестирования.](https://github.com/artmaxst/iqa-homeworks1/tree/main)
 
 1.2. [Основы клиент-серверного взаимодействия](./drf/1.2-requests-templates)
 
