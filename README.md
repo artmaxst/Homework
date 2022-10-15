@@ -16,7 +16,7 @@
 
 2.3. [Инструменты тестирования для работы с документацией](https://github.com/artmaxst/iqa-homeworks6/blob/main/README.md)
 
-2.4. [Инструменты тестирования. Клиент сервер](./drf/1.2-requests-templates)
+2.4. [Инструменты тестирования. Клиент сервер](https://github.com/artmaxst/iqa-homeworks8/blob/main/README.md)
 
 2.5. [Жизненный цикл разработки ПО. Гибкие методологии разработки ПО](https://github.com/artmaxst/iqa-homeworks7/blob/main/README.md)
 
